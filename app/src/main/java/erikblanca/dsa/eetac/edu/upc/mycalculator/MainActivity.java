@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v){
                 String op = inOut.getText().toString();
 
-                
+
                 //int res = Integer.parseInt(op);
                 //int res = Integer.valueOf(op).intValue();
                 int res2 = 1+2/2;
